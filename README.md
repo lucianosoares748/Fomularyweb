@@ -1,4 +1,4 @@
-<h1>🕵 Este foi meu primeiro formulário web! 🕵</h1>
+<h1>🕵 Este foi meu primeiro formulário Web! 🕵</h1>
 
 
 <p>👓 Aqui neste projeto foi onde eu aprendi a desenvolver um formulário web!!</p>
